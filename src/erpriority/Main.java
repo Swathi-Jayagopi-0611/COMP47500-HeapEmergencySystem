@@ -9,5 +9,7 @@ public class Main {
         System.out.println("\nRunning Experiment...\n");
 
         Experiment.runExperiment();
+
+        PerformanceChart.showChart();
     }
 }
